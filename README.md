@@ -28,12 +28,12 @@ If you have any comments or questions then you can submit those by any of the fo
 * Direct to me at exec-director@ietf.org
 * To the ietf@ietf.org list
 
-[1]  https://ietf.org/privacy-statement/ \\
+[1]  https://ietf.org/privacy-statement/  
 [2]  https://github.com/ietf-llc/ietf-privacy-statement-consultation/blob/master/DRAFT%20IETF%20Privacy%20Statement%202019.md
 
--- \\
-Jay Daley \\
-IETF Executive Director \\
+--  
+Jay Daley  
+IETF Executive Director  
 exec-director@ietf.org
 
 
