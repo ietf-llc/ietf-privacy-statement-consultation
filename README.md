@@ -1,8 +1,10 @@
+NOTE: This is the README for the latest-updates-from-consultation branch which describes the latest changes in this branch and not the changes that were described when this consultation started.
+
 The IETF Administration LLC has reviewed the IETF Privacy Statement [1] and proposes to introduce a new version [2].  The main reasons for this are to support the introduction of web analytics, to support the collection of demographic data in surveys and to make the whole statement more legally compliant, easier to read and clearer to understand.  This new version contains the following changes, which have been reviewed by our privacy counsel:
 
 1. Significant reordering, moving of text and changing of headings, with minimal change in meaning, in order to make the statement clearer and easier to understand.
 
-2. The scope statement has changed from covering the IETF/IRTF/IAB to identifying the specific groups that can legally be considered data controllers in various data protection regimes, namely the LLC, IESG, IAB, IRSG and RFC Editor, and being clear that their activities form a single privacy context.  The scope uses "IETF" as a collective term for all these groups, even though that is not structurally accurate, as attempting to convey accurate structure in this statement is too complex. "_This statement sets out the privacy and data protection policy of the following related organizations and groups: the IETF Administration LLC ("LLC"); the Internet Engineering Steering Group ("IESG"); the Internet Architecture Board ("IAB"); the Internet Research Steering Group ("IRSG"); and the RFC Editor (each a "Party"), which are collectively referred to in this policy as  the Internet Engineering Task Force ("IETF") and whose activities constitute a single privacy context._"
+2. The scope statement has changed from simply listing the IETF/IRTF/IAB to identifying the specific groups that can legally be considered data controllers in various data protection regimes, namely the LLC, IESG, IAB, IRSG and RFC Editor, and being clear that their activities form a single privacy context.  The scope uses "IETF/IRTF/IAB" as a collective term for all these groups, even though that is not the plainest English possible, as that is needed to convey accurate structure in this statement. "_This statement sets out the privacy and data protection policy of the following related organizations and groups: the Internet Engineering Steering Group (“IESG”) representing the IETF; the Internet Research Steering Group ("IRSG") representing the IRTF; the Internet Architecture Board ("IAB"); and the common supporting organizations of the IETF Administration LLC ("LLC") and the RFC Editor, which are collectively referred to in this policy as the IETF/IRTF/IAB and individually as a Party and whose combined activities constitute a single privacy context._"
 
 3. The existing version contains a number of references to the Internet Society (ISOC) given the legal structure that existed before the creation of the IETF Administration LLC.  Those references have all been removed as data will no longer be shared with ISOC and a statement added for the avoidance of doubt: "_For the avoidance of doubt, this policy does not apply to the Internet Society ("ISOC") and its activities and practices constitute a separate privacy context. ISOC should be regarded as a third-party for the purposes of this policy._"
 
@@ -20,13 +22,6 @@ The IETF Administration LLC has reviewed the IETF Privacy Statement [1] and prop
 
 10. A new section has been added to explain that if we collect demographic information in a survey then that will only be published in an aggregated form that does not allow individual identification.  This addition is not needed to enable collection of demographics, we can do that anyway, it is solely to explain what we do if we do collect it.  "_We may ask you to provide demographic information (e.g. age, sex, country of residence) in surveys or other information gathering activities.  You are not required to provide that information and your disclosure of that information to us is voluntary.  We do not disclose the demographic information of individuals.  We may publish aggregated information using demographic data as one dimension, in which case we will aggregate at a sufficient level to prevent disaggregation or deanonymization._"
 
-This email now begins a two week consultation on this revised statement, closing on Wednesday 18 December.
-
-If you have any comments or questions then you can submit those by any of the following methods:
-
-* Raising an issue on the Github repository https://github.com/ietf-llc/ietf-privacy-statement-consultation
-* Direct to me at exec-director@ietf.org
-* To the ietf@ietf.org list
 
 [1]  https://ietf.org/privacy-statement/  
 [2]  https://github.com/ietf-llc/ietf-privacy-statement-consultation/blob/master/DRAFT%20IETF%20Privacy%20Statement%202019.md
