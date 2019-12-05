@@ -1,33 +1,33 @@
 # Scope
-This statement sets out the privacy and data protection policy of the following related organizations and groups: the IETF Administration LLC ("LLC"); the Internet Engineering Steering Group (“IESG”); the Internet Architecture Board ("IAB"); the Internet Research Steering Group ("IRSG"); and the RFC Editor (each a "Party"), which are collectively referred to in this policy as the Internet Engineering Task Force ("IETF") and whose activities constitute a single privacy context. 
+This statement sets out the privacy and data protection policy of the following related organizations and groups: the Internet Engineering Steering Group (“IESG”) representing the IETF; the Internet Research Steering Group ("IRSG") representing the IRTF; the Internet Architecture Board ("IAB"); and the common supporting organizations of the IETF Administration LLC ("LLC") and the RFC Editor, which are collectively referred to in this policy as the IETF/IRTF/IAB and individually as a Party and whose combined activities constitute a single privacy context. 
 
 For the avoidance of doubt, the Internet Society (“ISOC”) is not a Party and their activities constitute a separate privacy context. ISOC should be regarded as a third-party for the purposes of this statement.
 
 # Our Commitment to Privacy
-The IETF operates in an open and transparent fashion. As a part of this transparency, any contributions, submissions, statements or communications that you make to any Party including any Personal Data, other than as expressly excepted in this statement, will be made public through electronic and other means.  
+The IETF/IRTF/IAB operates in an open and transparent fashion. As a part of this transparency, any contributions, submissions, statements or communications that you make to any Party including any Personal Data, other than as expressly excepted in this statement, will be made public through electronic and other means.  
 
 You should be aware of our transparent operation when communicating with us.
 
 # Management of Personal Data
 ## The “Personal Data” we collect
 The data that we collect and process (“Personal Data”) includes the following information that you provide to us when we specifically request that you do so in specific situations:
-* any information that you provide when transacting through any IETF website or other resource 
-* any information you enter on the Blue Sheet for an in-person or electronic meeting run by or for the IETF. 
+* any information that you provide when transacting through any IETF/IRTF/IAB website or other resource 
+* any information you enter on the Blue Sheet for an in-person or electronic meeting run by or for the IETF/IRTF/IAB. 
 
 Your Personal Data also includes the following data generated in your interactions with us:
-* postings or other contributions you make to the IETF websites
-* messages sent to most mailing lists operated by the IETF
+* postings or other contributions you make to the IETF/IRTF/IAB websites
+* messages sent to most mailing lists operated by the IETF/IRTF/IAB
 * messages posted in instant messaging systems and chat rooms
 * all Internet-Drafts or other contributions that you submit
-* comments you send to us regarding the IETF or a Party's documents
+* comments you send to us regarding the IETF/IRTF/IAB or a Party's documents
 * intellectual property disclosures and updates
 * requests for document authentication
 * subpoenas
 * registrations for meetings arranged for or by any Party
-* mailing list registrations (i.e. lists of the subscribers to IETF-managed mailing lists made available to subscribers of the lists)
-* metadata related to the time and frequency of your interactions with any IETF system
+* mailing list registrations (i.e. lists of the subscribers to IETF/IRTF/IAB-managed mailing lists made available to subscribers of the lists)
+* metadata related to the time and frequency of your interactions with any IETF/IRTF/IAB system
 * message headers
-* and most other information that you send, submit or post to the IETF, or on any service operated by the IETF or in any forum operated by the IETF.
+* and most other information that you send, submit or post to the IETF/IRTF/IAB, or on any service operated by the IETF/IRTF/IAB or in any forum operated by the IETF/IRTF/IAB.
 
 Examples of Personal Data include:
 * first and last name
@@ -40,10 +40,10 @@ Examples of Personal Data include:
 By providing us with your Personal Data, you are consenting to our disclosure and use of it for the purposes as described in this Statement. 
 
 ## Your consent to receiving communications
-By subscribing to a mailing list managed by the IETF or submitting a contribution to the IETF, you consent to us using your Personal Data to communicate with you about your participation in our activities. 
+By subscribing to a mailing list managed by the IETF/IRTF/IAB or submitting a contribution to the IETF/IRTF/IAB, you consent to us using your Personal Data to communicate with you about your participation in our activities. 
 
 ## Audio, pictorial and video recordings
-We also collect audio, pictorial and video recording, during and in connection with our events, meetings and conferences. All such information may be made public and used by us in connection with the activities of the IETF.
+We also collect audio, pictorial and video recording, during and in connection with our events, meetings and conferences. All such information may be made public and used by us in connection with the activities of the IETF/IRTF/IAB.
 
 ## International transfer of data
 Due to the nature of the Internet and our international operations, your communications and submissions may result in the transfer of your Personal Data and other information across national boundaries and outside of your country of residence. By communicating with a Party and submitting information to us,  you consent to these transfers and to the use of your Personal Data and other information as described in this Statement.
@@ -65,10 +65,10 @@ We do not use browser storage, for example flash cookies, or other local storage
 We use services from Cloudflare to support some of their websites. Please refer to the Privacy Policy on the Cloudflare home page for information on Cloudflare's tracking policies.
 
 # Information That We Do Not Share 
-As an exception to the IETF’s general policy of releasing information to the public, there are certain limited types of Personal Data that we do not share in the ordinary course of our operations ("Non-Public Information"). The categories of Non-Public Information that we currently recognize are described below.
+As an exception to the IETF/IRTF/IAB’s general policy of releasing information to the public, there are certain limited types of Personal Data that we do not share in the ordinary course of our operations ("Non-Public Information"). The categories of Non-Public Information that we currently recognize are described below.
 
 ## Payment Information
-Payment information is not collected or stored on any servers operated by the IETF. If you conduct transactions using our websites (e.g., meeting registration), payment and payment card information will be entered directly into a third-party processor's systems and is not transmitted through or stored by our websites. We make reasonable efforts to ensure that our third-party processors handle your non-public information responsibly.
+Payment information is not collected or stored on any servers operated by the IETF/IRTF/IAB. If you conduct transactions using our websites (e.g., meeting registration), payment and payment card information will be entered directly into a third-party processor's systems and is not transmitted through or stored by our websites. We make reasonable efforts to ensure that our third-party processors handle your non-public information responsibly.
 
 ## Registration Information
 We collect information from people who register for meetings. The attendee lists which are published in the meeting proceedings include the registrants, name, organization and ISO country code, a profile link (if provided in the registration) and whether the registration was local or remote. All other information we collect is only published, if at all, in summary form.
