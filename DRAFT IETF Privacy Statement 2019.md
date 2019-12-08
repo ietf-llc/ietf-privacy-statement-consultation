@@ -1,5 +1,5 @@
 # Scope
-This statement sets out the privacy and data protection policy of the following related organizations and groups: the Internet Engineering Steering Group (“IESG”) representing the IETF; the Internet Research Steering Group ("IRSG") representing the IRTF; the Internet Architecture Board ("IAB"); and the common supporting organizations of the IETF Administration LLC ("LLC") and the RFC Editor, which are collectively referred to in this policy as the IETF/IRTF/IAB and individually as a Party and whose combined activities constitute a single privacy context. 
+This statement sets out the privacy and data protection policy of the following related organizations and groups: the Internet Engineering Steering Group (“IESG”) representing the IETF; the Internet Research Steering Group ("IRSG") representing the IRTF; the Internet Architecture Board ("IAB"); and the common supporting organizations of the IETF Administration LLC ("LLC") and the RFC Editor, which are collectively referred to in this policy as the IETF/IRTF/IAB and individually as a Party and whose collective activities constitute a single privacy context. 
 
 For the avoidance of doubt, the Internet Society (“ISOC”) is not a Party and their activities constitute a separate privacy context. ISOC should be regarded as a third-party for the purposes of this statement.
 
