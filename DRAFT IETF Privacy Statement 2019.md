@@ -3,7 +3,7 @@ This statement sets out the privacy and data protection policy of the following 
 
 For the avoidance of doubt, the Internet Society (“ISOC”) is not a Party and their activities constitute a separate privacy context. ISOC should be regarded as a third-party for the purposes of this statement.
 
-# Our Commitment to Privacy
+# Our Commitment to Transparency
 The IETF/IRTF/IAB operates in an open and transparent fashion. As a part of this transparency, any contributions, submissions, statements or communications that you make to any Party including any Personal Data, other than as expressly excepted in this statement, will be made public through electronic and other means.  
 
 You should be aware of our transparent operation when communicating with us.
