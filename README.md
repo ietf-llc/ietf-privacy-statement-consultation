@@ -22,13 +22,15 @@ The IETF Administration LLC has reviewed the IETF Privacy Statement [1] and prop
 
 10. A new section has been added to explain that if we collect demographic information in a survey then that will only be published in an aggregated form that does not allow individual identification.  This addition is not needed to enable collection of demographics, we can do that anyway, it is solely to explain what we do if we do collect it.  "_We may ask you to provide demographic information (e.g. age, sex, country of residence) in surveys or other information gathering activities.  You are not required to provide that information and your disclosure of that information to us is voluntary.  We do not disclose the demographic information of individuals.  We may publish aggregated information using demographic data as one dimension, in which case we will aggregate at a sufficient level to prevent disaggregation or deanonymization._"
 
-11.  A new section has been added to cover a range of processes regarding specific individuals "_Applications for roles, awards/prizes and grants; feedback on individuals; complaints_".  This is intended to be generic enough to cover new processes of this nature while also being specific enough to be clear. "_The IETF/IRTF/IAB operates a number of processes where individuals may submit Personal Data about themselves or others and where all information is kept confidential, including any reviews, assessments, deliberations, interviews or other discussions, except as specified below.  These processes are:_
+11. A new section has been added to cover a range of processes regarding specific individuals "_Applications for roles, awards/prizes and grants; feedback on individuals; complaints_".  This is intended to be generic enough to cover new processes of this nature while also being specific enough to be clear. "_The IETF/IRTF/IAB operates a number of processes where individuals may submit Personal Data about themselves or others and where all information is kept confidential, including any reviews, assessments, deliberations, interviews or other discussions, except as specified below.  These processes are:_
 * _Applications for roles, except the names of applicants_
 * _Feedback on individuals regarding a role application or performance in a role_
 * _Nominations for awards/prizes, except the names of award/prize winners_
 * _Papers submitted for Applied Networking Research Workshops (ANRW), except the published papers_
 * _Applications for travel grants, except the names of grant recipients_
 * _Complaints received about the behavior of an individual or group of individuals._"
+
+12. Updated the section on "_Audio, pictorial and video recordings_" to address the use of red lanyards at IETF meetings: "_For some meetings we provide red lanyards for attendees to wear to indicate that they do not wish to be photographed individually or in small groups.  Official IETF/IRTF/IAB photographers comply with this indication and we use reasonable efforts to ensure that all other photographers also comply.  Photographs of large groups may contain incidental images of attendees in red lanyards and individuals wearing red lanyards will still be included in official video recordings._"
 
 
 [1]  https://ietf.org/privacy-statement/  

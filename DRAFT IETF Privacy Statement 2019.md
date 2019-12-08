@@ -43,7 +43,7 @@ By providing us with your Personal Data, you are consenting to our disclosure an
 By subscribing to a mailing list managed by the IETF/IRTF/IAB or submitting a contribution to the IETF/IRTF/IAB, you consent to us using your Personal Data to communicate with you about your participation in our activities. 
 
 ## Audio, pictorial and video recordings
-We also collect audio, pictorial and video recording, during and in connection with our events, meetings and conferences. All such information may be made public and used by us in connection with the activities of the IETF/IRTF/IAB.
+We also collect audio, pictorial and video recording, during and in connection with our events, meetings and conferences. All such information may be made public and used by us in connection with the activities of the IETF/IRTF/IAB.  For some meetings we provide red lanyards for attendees to wear to indicate that they do not wish to be photographed individually or in small groups.  Official IETF/IRTF/IAB photographers comply with this indication and we use reasonable efforts to ensure that all other photographers also comply.  Photographs of large groups may contain incidental images of attendees in red lanyards and individuals wearing red lanyards will still be included in official video recordings.
 
 ## International transfer of data
 Due to the nature of the Internet and our international operations, your communications and submissions may result in the transfer of your Personal Data and other information across national boundaries and outside of your country of residence. By communicating with a Party and submitting information to us,  you consent to these transfers and to the use of your Personal Data and other information as described in this Statement.
