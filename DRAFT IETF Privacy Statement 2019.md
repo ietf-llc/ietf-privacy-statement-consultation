@@ -67,6 +67,15 @@ We use services from Cloudflare to support some of their websites. Please refer 
 # Information That We Do Not Share 
 As an exception to the IETF/IRTF/IAB’s general policy of releasing information to the public, there are certain limited types of Personal Data that we do not share in the ordinary course of our operations ("Non-Public Information"). The categories of Non-Public Information that we currently recognize are described below.
 
+## Applications for roles, awards/prizes and grants; feedback on individuals; complaints
+The IETF/IRTF/IAB operates a number of processes where individuals may submit Personal Data about themselves or others and where all information is kept confidential, including any reviews, assessments, deliberations, interviews or other discussions, except as specified below.  These processes are:
+* Applications for roles, except the names of applicants
+* Feedback on individuals regarding a role application or performance in a role
+* Nominations for awards/prizes, except the names of award/prize winners
+* Papers submitted for Applied Networking Research Workshops (ANRW), except the published papers
+* Applications for travel grants, except the names of grant recipients
+* Complaints received about the behavior of an individual or group of individuals.
+
 ## Payment Information
 Payment information is not collected or stored on any servers operated by the IETF/IRTF/IAB. If you conduct transactions using our websites (e.g., meeting registration), payment and payment card information will be entered directly into a third-party processor's systems and is not transmitted through or stored by our websites. We make reasonable efforts to ensure that our third-party processors handle your non-public information responsibly.
 
