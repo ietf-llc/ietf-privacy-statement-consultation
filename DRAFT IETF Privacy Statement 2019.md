@@ -49,7 +49,7 @@ We also collect audio, pictorial and video recording, during and in connection w
 Due to the nature of the Internet and our international operations, your communications and submissions may result in the transfer of your Personal Data and other information across national boundaries and outside of your country of residence. By communicating with a Party and submitting information to us,  you consent to these transfers and to the use of your Personal Data and other information as described in this Statement.
 
 ## Sale of data
-We do not sell your Personal Data.
+We do not sell your Personal Data nor do we monetize it in any way.
 
 # Website Activity
 Technical data will be collected in our web server logs such as, operating system, browser version, and IP address. We do not make such information available to the public. 

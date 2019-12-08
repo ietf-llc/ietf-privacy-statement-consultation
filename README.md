@@ -12,7 +12,7 @@ The IETF Administration LLC has reviewed the IETF Privacy Statement [1] and prop
 
 5. Added an additional example of personal data to be clear that email message headers contain a lot of data "_the IP address of a message sender and details of the device or service used to send the message, as found in email headers_".
 
-6. Added a clear statement that we do not sell data "_We do not sell your Personal Data._"
+6. Added a clear statement that we do not sell data "_We do not sell your Personal Data nor do we monetize it in any way._"
 
 7. Added a new bullet on what data we collect to cover web analytics and a new paragraph that covers what we intend to do with that data.  The bullet is "_information provided when you interact with any IETF website_" and the paragraph is "_We track your usage of our websites in order to understand how our websites are used and how we can improve them.  We do this using Javascript based tracking code, which collects a limited set of technical data.  If Javascript is disabled or not available in your browser then this tracking will not take place and your usage of our websites should not be affected._"
 
