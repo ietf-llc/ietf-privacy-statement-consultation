@@ -72,7 +72,7 @@ The IETF/IRTF/IAB operates a number of processes where individuals may submit Pe
 * Applications for roles, except the names of applicants
 * Feedback on individuals regarding a role application or performance in a role
 * Nominations for awards/prizes, except the names of award/prize winners
-* Papers submitted for Applied Networking Research Workshops (ANRW), except the published papers
+* Papers submitted for workshops, except the published papers
 * Applications for travel grants, except the names of grant recipients.
 
 ## Payment Information

@@ -26,7 +26,7 @@ The IETF Administration LLC has reviewed the IETF Privacy Statement [1] and prop
 * _Applications for roles, except the names of applicants_
 * _Feedback on individuals regarding a role application or performance in a role_
 * _Nominations for awards/prizes, except the names of award/prize winners_
-* _Papers submitted for Applied Networking Research Workshops (ANRW), except the published papers_
+* _Papers submitted for workshops, except the published papers_
 * _Applications for travel grants, except the names of grant recipients._"
 
 12. Updated the section on "_Audio, pictorial and video recordings_" to address the use of red lanyards at IETF meetings: "_For some meetings we provide red lanyards for attendees to wear to indicate that they do not wish to be photographed individually or in small groups.  Official IETF/IRTF/IAB photographers comply with this indication and we use reasonable efforts to ensure that all other photographers also comply.  Photographs of large groups may contain incidental images of attendees in red lanyards and individuals wearing red lanyards will still be included in official video recordings._"
