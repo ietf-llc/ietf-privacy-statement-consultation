@@ -31,6 +31,8 @@ The IETF Administration LLC has reviewed the IETF Privacy Statement [1] and prop
 
 12. Updated the section on "_Audio, pictorial and video recordings_" to address the use of red lanyards at IETF meetings: "_For some meetings we provide red lanyards for attendees to wear to indicate that they do not wish to be photographed individually or in small groups.  Official IETF/IRTF/IAB photographers comply with this indication and we use reasonable efforts to ensure that all other photographers also comply.  Photographs of large groups may contain incidental images of attendees in red lanyards and individuals wearing red lanyards will still be included in official video recordings._"
 
+13. Updated the section on our use of Cloudflare to make it easier for anyone who wishes to read the Cloudflare Privacy Policy to know what data they collect and how it is, when providing this service: "_We use services from Cloudflare to support some of our websites. In Cloudflare terminology that will make anyone who accesses our websites an 'End User' and information on what data Cloudflare collect from End Users and how they use it is explained in their privacy policy.  There is a link to the Cloudflare Privacy Policy on the Cloudflare home page._"
+
 
 [1]  https://ietf.org/privacy-statement/  
 [2]  https://github.com/ietf-llc/ietf-privacy-statement-consultation/blob/master/DRAFT%20IETF%20Privacy%20Statement%202019.md

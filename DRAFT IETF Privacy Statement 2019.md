@@ -62,7 +62,7 @@ When you log into one of our websites or initiate an online transaction through 
 
 We do not use browser storage, for example flash cookies, or other local storage. 
 
-We use services from Cloudflare to support some of our websites. Please refer to the Privacy Policy on the Cloudflare home page for information on Cloudflare's tracking policies.
+We use services from Cloudflare to support some of our websites. In Cloudflare terminology that will make anyone who accesses our websites an 'End User' and information on what data Cloudflare collect from End Users and how they use it is explained in their privacy policy.  There is a link to the Cloudflare Privacy Policy on the Cloudflare home page.
 
 # Information That We Do Not Share 
 As an exception to the IETF/IRTF/IAB’s general policy of releasing information to the public, there are certain limited types of Personal Data that we do not share in the ordinary course of our operations ("Non-Public Information"). The categories of Non-Public Information that we currently recognize are described below.
