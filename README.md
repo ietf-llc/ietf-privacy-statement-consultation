@@ -1,6 +1,6 @@
-NOTE: This is the README for the latest-updates-from-consultation branch which describes the latest changes in this branch and not the changes that were described when this consultation started.
+NOTE: THIS CONSULTATION HAS NOW CLOSED AND THE NEW IETF/IRTF/IAB PRIVACY STATEMENT HAS BEEN FINALISED.
 
-The IETF Administration LLC has reviewed the IETF Privacy Statement [1] and proposes to introduce a new version [2].  The main reasons for this are to support the introduction of web analytics, to support the collection of demographic data in surveys and to make the whole statement more legally compliant, easier to read and clearer to understand.  This new version contains the following changes, which have been reviewed by our privacy counsel:
+The IETF Administration LLC has reviewed the IETF Privacy Statement [1] and is replacing it with a new version [2] as the consultation period has now ended.  This new version incorporates additional changes to address the issues raised in the consultation.  The main reasons for this are to support the introduction of web analytics, to support the collection of demographic data in surveys and to make the whole statement more legally compliant, easier to read and clearer to understand.  This new version contains the following changes, which have been reviewed by our privacy counsel:
 
 1. Significant reordering, moving of text and changing of headings, with minimal change in meaning, in order to make the statement clearer and easier to understand.
 
