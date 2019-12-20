@@ -1,6 +1,6 @@
 NOTE: THIS CONSULTATION HAS NOW CLOSED AND THE NEW IETF/IRTF/IAB PRIVACY STATEMENT HAS BEEN FINALISED.
 
-The IETF Administration LLC has reviewed the IETF Privacy Statement [1] and is replacing it with a new version [2] as the consultation period has now ended.  This new version incorporates additional changes to address the issues raised in the consultation.  The main reasons for this are to support the introduction of web analytics, to support the collection of demographic data in surveys and to make the whole statement more legally compliant, easier to read and clearer to understand.  This new version contains the following changes, which have been reviewed by our privacy counsel:
+The IETF Administration LLC has reviewed the 2018n IETF Privacy Statement [1] and is replacing it with a new 2019 version [2] as the consultation period has now ended.  This new version incorporates additional changes to address the issues raised in the consultation.  The main reasons for this are to support the introduction of web analytics, to support the collection of demographic data in surveys and to make the whole statement more legally compliant, easier to read and clearer to understand.  This new version contains the following changes, which have been reviewed by our privacy counsel:
 
 1. Significant reordering, moving of text and changing of headings, with minimal change in meaning, in order to make the statement clearer and easier to understand.
 
@@ -34,7 +34,7 @@ The IETF Administration LLC has reviewed the IETF Privacy Statement [1] and is r
 13. Updated the section on our use of Cloudflare to make it easier for anyone who wishes to read the Cloudflare Privacy Policy to know what data they collect and how it is, when providing this service: "_We use services from Cloudflare to support some of our websites. In Cloudflare terminology that will make anyone who accesses our websites an 'End User' and information on what data Cloudflare collect from End Users and how they use it is explained in their privacy policy.  There is a link to the Cloudflare Privacy Policy on the Cloudflare home page._"
 
 
-[1]  https://ietf.org/privacy-statement/  
+[1]  https://github.com/ietf-llc/ietf-privacy-statement-consultation/blob/master/IETF%20Privacy%20Statement%202018.md  
 [2]  https://github.com/ietf-llc/ietf-privacy-statement-consultation/blob/master/DRAFT%20IETF%20Privacy%20Statement%202019.md
 
 --  
